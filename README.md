@@ -1,5 +1,6 @@
-"Never invest in a business you cannot understand."
--Warren Buffet
+<p align="center">"Never invest in a business you cannot understand."  </p>
+<p align="center">  -Warren Buffet</p>
+
 # NABC
 ## Problem Statement
 Build a solution to summarize financial documents for layman investors so that their need for making informed investment decisions is satisfied considering the lack of financial literacy and awareness in the country.
@@ -27,6 +28,7 @@ The solution would involve the development of a robust algorithm which can produ
 The solution would look like the designs shown below:
  
  <img height="500" width="800" class="center" alt="image" src="https://user-images.githubusercontent.com/104067263/208142942-778ffd6e-ddbd-4994-b20d-2c4819564efc.png" title="The page for selecting the document for summarization">
+ Fig. 1 The page for selecting the document for summarization
 
 ## Benefits
 -	Since the current process of skimming through extensive reports demands a lot of time and efficiency, the solution would save time involved in the same process significantly by making all the required information available in a succinct manner. 
