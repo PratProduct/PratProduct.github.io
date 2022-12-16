@@ -22,13 +22,19 @@ Why is there a need for this solution? –
 -	Because of the lack of financial literacy in the country, a layman investor finds it hard to understand jargons in the financial reports which are prepared by the domain experts.
 -	Since these documents cater to a wide range of stakeholders, the financial documents are usually extensive and thus, a layman investor finds it hard to understand which sections of the document are relevant for making investment decisions.
 
-
 ## Approach
 The solution would involve the development of a robust algorithm which can produce effective results and good accuracy to summarize the financial documents and will be available to the end-users as a web application. 
-The solution would look like the designs shown below:
- 
- <img height="500" width="800" class="center" alt="image" src="https://user-images.githubusercontent.com/104067263/208142942-778ffd6e-ddbd-4994-b20d-2c4819564efc.png" title="The page for selecting the document for summarization">
- Fig. 1 The page for selecting the document for summarization
+The solution would look similar to the designs shown below:
+ <figure class="image" align="center">
+     <img height="500" width="800" style="text-align: center" class="center" alt="image" src="https://user-images.githubusercontent.com/104067263/208142942-778ffd6e-ddbd-4994-b20d-2c4819564efc.png" title="The page for selecting the document for summarization">
+     <p align="center">Fig. 1 The page for selecting the document for summarization</p>
+    
+ </figure>
+ <figure class="image" align="center">
+         <img height="500" width="800" class="center" alt="image" src="https://user-images.githubusercontent.com/104067263/208162028-326ef0a1-7a45-4834-9e75-57ea2578068b.png">
+        <p align="center">Fig. 2 The page containing the summary and the key parameters</p>
+ </figure>
+
 
 ## Benefits
 -	Since the current process of skimming through extensive reports demands a lot of time and efficiency, the solution would save time involved in the same process significantly by making all the required information available in a succinct manner. 
