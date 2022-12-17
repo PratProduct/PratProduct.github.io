@@ -44,5 +44,5 @@ The solution would look similar to the designs shown below:
 
 ## Competition
 Our unique selling proposition is "We make wealth creation more inclusive. Invest in knowledge to get the best returns with us." This slogan can help infer:
-- Our solution is more inclusive because we enable all kinds of investors to make smart investment decisions
-- Our offering makes use of the domain knowledge to make relevant information available easily
+- Our solution is more inclusive because we enable all kinds of investors to make smart investment decisions.
+- Our offering makes use of the domain knowledge to make relevant information available easily.
