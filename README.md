@@ -22,7 +22,7 @@ The current number of active DEMAT accounts stands at 11.45 crores and has witne
 
 ## What are the user’s needs? 
 -	The solution should guide the users in the direction of making smart investment by nudging them towards considering key parameters for investment.
--	The solution should bridge the gap between a layman and an expert by making less use of jargonish language.
+-	The solution should bridge the gap between a layman and an expert by making less use of jargonistic language.
 -	The solution should be easily accessible.
 
 ### Why is there a need for this solution? 
@@ -33,7 +33,7 @@ The current number of active DEMAT accounts stands at 11.45 crores and has witne
 - The solution would involve the development of a robust algorithm which can produce effective results and good accuracy to summarize the financial documents and will be available to the end-users as a web application. 
 - The solution would look similar to the designs shown below:
  <figure class="image" align="center">
-     <img height="500" width="800" style="text-align: center" class="center" alt="image" src="https://user-images.githubusercontent.com/104067263/208142942-778ffd6e-ddbd-4994-b20d-2c4819564efc.png" title="The page for selecting the document for summarization">
+     <img height="500" width="800" style="text-align: center" class="center" alt="image" src="https://user-images.githubusercontent.com/104067263/208142942-778ffd6e-ddbd-4994-b20d-2c4819564efc.png">
      <p align="center">Fig. 1 The page for selecting the document for summarization</p>
     
  </figure>
@@ -46,7 +46,7 @@ The current number of active DEMAT accounts stands at 11.45 crores and has witne
 ## Benefits
 -	Since the current process of skimming through extensive reports demands a lot of time and efficiency, the solution would save time involved in the same process significantly by making all the required information available in a succinct manner. 
 -	The solution also creates awareness about some key parameters which are useful for making smart investment decisions.
--	The solution would be efficient as it would offers the users a unified view of the summaries of the documents one would need to make smart investment decisions. 
+-	The solution would be efficient as it would offers the users a unified view of the summary of the document one would need to make investment decisions. 
 
 
 ## Competition
