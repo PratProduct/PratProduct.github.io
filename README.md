@@ -40,3 +40,9 @@ The solution would look similar to the designs shown below:
 -	Since the current process of skimming through extensive reports demands a lot of time and efficiency, the solution would save time involved in the same process significantly by making all the required information available in a succinct manner. 
 -	The solution also creates awareness about some key parameters which are useful for making smart investment decisions.
 -	The solution would be efficient as it would offers the users a unified view of the summaries of the documents one would need to make smart investment decisions. 
+
+
+## Competition
+Our unique selling proposition is "We make wealth creation more inclusive. Invest in knowledge to get the best returns with us." This slogan can help infer:
+- Our solution is more inclusive because we enable all kinds of investors to make smart investment decisions
+- Our offering makes use of the domain knowledge to make relevant information available easily
